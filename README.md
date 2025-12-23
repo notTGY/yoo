@@ -1,5 +1,5 @@
 # yoo
-YooMoney Client
+YooKassa Client
 
 ## API
 
